@@ -1,0 +1,1 @@
+web: gunicorn BBB_Dashboard.app:app
